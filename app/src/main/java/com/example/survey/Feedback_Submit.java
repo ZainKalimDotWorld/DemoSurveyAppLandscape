@@ -102,7 +102,6 @@ Boolean toggle_state;
                 signin2 = findViewById(R.id.signin2);
                 home_btn = findViewById(R.id.home_btn);
 
-
                 home_btn.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
